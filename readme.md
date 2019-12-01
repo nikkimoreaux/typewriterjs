@@ -1,4 +1,4 @@
-# TypewriterJS v2
+# [forked for better CSS performances] TypewriterJS v2
 
 [![CircleCI](https://circleci.com/gh/tameemsafi/typewriterjs.svg?style=svg)](https://circleci.com/gh/tameemsafi/typewriterjs)
 
